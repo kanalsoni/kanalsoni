@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **ML and Python**
 
-- 📫 How to reach me **LinkedIn**
+- 📫 How to reach me kanalsoni015@gmail.com
 
 - 😄 Pronouns: You can give <i>any</i>
 
