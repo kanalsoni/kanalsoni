@@ -22,7 +22,7 @@
 
 - 📫 How to reach me kanalsoni015@gmail.com
 
-- 😄 Pronouns: You can give <i>any</i>
+- 😄 Pronouns: You can give <i>she/hers</i>
 
 - 📄 Know about my experiences: https://drive.google.com/file/d/1QkLaiOsa_m947zlmxvcxNKC9jKtmbwHj/view?usp=sharing
 
