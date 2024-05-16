@@ -8,25 +8,23 @@
 <details>
   <summary>I am an under-graduate who is always curious to learn and grow in the field of Machine Learning. I am also Python certified along with Machine Learning knowledge.</summary></details>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Machine Learning and Data Analytics**
 
-- 🌱 I’m currently learning **Machine Learning and its applications along with Python Libraries**
+- 🌱 I’m currently learning **Gen AI and advanced SQL**
 
-- 👯 I’m looking to collaborate on **any ML project**
+- 👯 I’m looking to collaborate on **any Analytics or ML project**
 
-- 🤝 I’m looking for help with **Open CV Projects**
+- 🤝 I’m looking for help with **Finding a Fulltime job**
 
 - 📝 I regularly write articles on [https://kanalsoni015.medium.com/](https://kanalsoni015.medium.com/)
 
-- 💬 Ask me about **ML and Python**
+- 💬 Ask me about **ML, Analytics, SQL, and Python**
 
 - 📫 How to reach me kanalsoni015@gmail.com
 
 - 😄 Pronouns: You can give <i>she/hers</i>
 
-- 📄 Know about my experiences: https://drive.google.com/file/d/1QkLaiOsa_m947zlmxvcxNKC9jKtmbwHj/view?usp=sharing
-
-- 👨‍💻 All of my projects are available at https://github.com/kanalsoni
+- 📄 Know about my Portfolio: https://www.datascienceportfol.io/KanalBSoni
 
 - ⚡ Fun fact **Learning like Machine since 3 years**
 
